@@ -332,7 +332,7 @@ h3 + img {
 }
 
 .text-secondary, .context-dark .text-secondary {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .line-height-reset {
@@ -1498,7 +1498,7 @@ h6,
 	letter-spacing: .2em;
 	font-size: 16px;
 	line-height: 1.2;
-	color: #f09922;
+	color: #149bf5;
 }
 
 .video-link + h6,
@@ -1635,7 +1635,7 @@ h5 + p,
 }
 
 .event-detail-link, .event-detail-link:focus, .event-detail-link:active {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .event-detail-link:hover {
@@ -1865,7 +1865,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .block-address a:hover {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .block-address .icon-rect.icon-white[class*='facebook'], .block-address .icon-rect.icon-white[class*='twitter'], .block-address .icon-rect.icon-white[class*='linkedin'], .block-address .icon-rect.icon-white[class*='youtube'] {
@@ -1877,8 +1877,8 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .block-address .icon-rect.icon-white:after {
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-image: -webkit-linear-gradient(left,#2fa8fa  0%, #149bf5 100%);
+	background-image: linear-gradient(to right,#2fa8fa  0%, #149bf5 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 }
@@ -2503,8 +2503,8 @@ img {
 }
 
 .icon-secondary {
-	color: #f09922;
-	fill: #f09922;
+	color: #149bf5;
+	fill: #149bf5;
 }
 
 .icon-success {
@@ -2731,8 +2731,8 @@ a.icon[class*='youtube']:hover {
 }
 
 .icon-rect-secodanry {
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-image: -webkit-linear-gradient(left,#2fa8fa  0%, #149bf5 100%);
+	background-image: linear-gradient(to right,#2fa8fa  0%, #149bf5 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 }
@@ -3083,15 +3083,15 @@ hr {
 }
 
 .button-secondary:before {
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-image: -webkit-linear-gradient(left,#2fa8fa  0%, #149bf5 100%);
+	background-image: linear-gradient(to right,#2fa8fa  0%, #149bf5 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 }
 
 .button-secondary:after {
-	background-image: -webkit-linear-gradient(left, #f09922 0%, #ef7630 100%);
-	background-image: linear-gradient(to right, #f09922 0%, #ef7630 100%);
+	background-image: -webkit-linear-gradient(left, #149bf5 0%,#2fa8fa  100%);
+	background-image: linear-gradient(to right, #149bf5 0%,#2fa8fa  100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF09922', endColorstr='#FFEF7630', GradientType=1);
 }
@@ -3798,7 +3798,7 @@ textarea.form-input {
 }
 
 .news-author, .news-author:focus, .news-author:active {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .news-author:hover {
@@ -3915,7 +3915,7 @@ textarea.form-input {
 .post-single-meta-author > a,
 .post-single-meta-author > a:focus,
 .post-single-meta-author > a:active {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .post-meta-author > a:hover,
@@ -3953,8 +3953,8 @@ textarea.form-input {
 }
 
 .post-single-social .icon-rect.icon-white:after {
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-image: -webkit-linear-gradient(left,#2fa8fa  0%, #149bf5 100%);
+	background-image: linear-gradient(to right,#2fa8fa  0%, #149bf5 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 }
@@ -4008,7 +4008,7 @@ textarea.form-input {
 }
 
 .post-single-about-link, .post-single-about-link:focus, .post-single-about-link:active {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .post-single-about-link:hover {
@@ -4256,7 +4256,7 @@ textarea.form-input {
 }
 
 .post-mini-author > a, .post-mini-author > a:focus, .post-mini-author > a:active {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .post-mini-author > a:hover {
@@ -4591,7 +4591,7 @@ textarea.form-input {
 }
 
 .breadcrumbs-custom-path a, .breadcrumbs-custom-path a:active, .breadcrumbs-custom-path a:focus {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .breadcrumbs-custom-path li {
@@ -4613,7 +4613,7 @@ textarea.form-input {
 	display: inline-block;
 	font-size: inherit;
 	font-style: normal;
-	color: #f09922;
+	color: #149bf5;
 	transform: translate3d(0, -50%, 0);
 }
 
@@ -4753,7 +4753,7 @@ textarea.form-input {
 
 .pagination-classic-link.active, .pagination-classic-link:hover {
 	color: #ffffff;
-	background-color: #f09922;
+	background-color: #149bf5;
 }
 
 @media (min-width: 480px) {
@@ -4814,7 +4814,7 @@ textarea.form-input {
 .pricing-price {
 	font-weight: 300;
 	line-height: 1;
-	color: #f09922;
+	color: #149bf5;
 }
 
 .pricing-description {
@@ -4853,7 +4853,7 @@ textarea.form-input {
 }
 
 .context-dark .pricing-price {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .context-dark .pricing-description {
@@ -4877,7 +4877,7 @@ textarea.form-input {
 
 .pricing-modern-header {
 	font-family: "Barlow Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-	background-color: #f09922;
+	background-color: #149bf5;
 	padding: 30px 20px 26px;
 }
 
@@ -4944,7 +4944,7 @@ textarea.form-input {
 }
 
 .context-dark .pricing-modern-price {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .context-dark .pricing-modern-description {
@@ -5755,7 +5755,7 @@ textarea.form-input {
 }
 
 .schedule-classic-author-name {
-	color: #f09922;
+	color: #149bf5;
 	text-decoration: underline;
 }
 
@@ -9104,7 +9104,7 @@ button.swiper-pagination-bullet {
 }
 
 .tabs-custom .nav-link-secondary-darker {
-	background-color: #ef7630;
+	background-color:#2fa8fa ;
 }
 
 .tabs-custom .nav-link-secondary-darker:hover, .tabs-custom .nav-link-secondary-darker.active {
@@ -9112,7 +9112,7 @@ button.swiper-pagination-bullet {
 }
 
 .tabs-custom .nav-link-secondary-darker:hover .nav-link-cite, .tabs-custom .nav-link-secondary-darker.active .nav-link-cite {
-	color: #ef7630;
+	color:#2fa8fa ;
 }
 
 .tabs-custom .nav-link-secondary-darker:hover .nav-link-title, .tabs-custom .nav-link-secondary-darker.active .nav-link-title {
@@ -9152,7 +9152,7 @@ button.swiper-pagination-bullet {
 }
 
 .tabs-custom .nav-link-secodanry {
-	background-color: #f09922;
+	background-color: #149bf5;
 }
 
 .tabs-custom .nav-link-secodanry:hover, .tabs-custom .nav-link-secodanry.active {
@@ -9160,7 +9160,7 @@ button.swiper-pagination-bullet {
 }
 
 .tabs-custom .nav-link-secodanry:hover .nav-link-cite, .tabs-custom .nav-link-secodanry.active .nav-link-cite {
-	color: #f09922;
+	color: #149bf5;
 }
 
 .tabs-custom .nav-link-secodanry:hover .nav-link-title, .tabs-custom .nav-link-secodanry.active .nav-link-title {
@@ -9661,7 +9661,7 @@ button.swiper-pagination-bullet {
 	font-weight: 600;
 	letter-spacing: .2em;
 	text-transform: uppercase;
-	color: #f09922;
+	color: #149bf5;
 	text-decoration: underline;
 }
 
@@ -12259,8 +12259,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 	left: 15px;
 	right: 15px;
 	overflow: hidden;
-	background-image: -webkit-linear-gradient(left, #ef7630 0%, #f09922 100%);
-	background-image: linear-gradient(to right, #ef7630 0%, #f09922 100%);
+	background-image: -webkit-linear-gradient(left,#2fa8fa  0%, #149bf5 100%);
+	background-image: linear-gradient(to right,#2fa8fa  0%, #149bf5 100%);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEF7630', endColorstr='#FFF09922', GradientType=1);
 	border-radius: 50%;
@@ -13970,7 +13970,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 
 @keyframes colorHoverModern {
 	0% {
-		fill: #f09922;
+		fill: #149bf5;
 	}
 	100% {
 		fill: #d7a753;
